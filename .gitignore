@@ -1,0 +1,4 @@
+node_modules/
+*.log
+.script_check_temp.js
+.DS_Store
